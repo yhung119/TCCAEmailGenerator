@@ -1,0 +1,26 @@
+body{ 
+	align : center;
+	background-color:#EBEBEB;
+
+}
+
+h1,h2 { 
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; color:navy;
+
+}
+p { 
+
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; color:#444444; font-size:13px;
+
+}
+a:link { 
+
+	color:#610511
+
+}
+v:link { 
+
+	color:#609
+
+}
